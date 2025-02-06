@@ -1,4 +1,4 @@
-# Android Unit 1 Lab - *CodePath Mail*
+# Android Unit 2 Lab - *CodePath Mail*
 
 Submitted by: **Hunter Smith**
 
@@ -26,14 +26,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/l7Ss0WW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/A4HQTFB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-I faced some challenges with the imports causing red issues. I just had to change a couple lines compared to Code Path for it to work properly. 
+I faced some challenges with the imports causing red issues. I just had to change a couple of lines compared to Code Path for it to work properly. 
 
 ## License
 
